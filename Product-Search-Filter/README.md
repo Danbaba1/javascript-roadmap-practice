@@ -17,7 +17,7 @@ category, price, stock status, ID, and name.
 
 ## Project Page
 
-https://roadmap.sh/projects/js-product-search-filter
+https://roadmap.sh/projects/js-product-search-and-filter
 
 ## Functions
 
