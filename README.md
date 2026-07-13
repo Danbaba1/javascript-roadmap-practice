@@ -16,7 +16,7 @@ and a link to the original challenge.
 - [Order Status Helper](./Order-Status-Helper/README.md) — https://roadmap.sh/projects/js-order-status-helper
 - [Password Rule Checker](./Password-Rule-Checker/README.md) — https://roadmap.sh/projects/js-password-rule-checker
 - [Price Calculator](./Price-Calculator/README.md) — https://roadmap.sh/projects/js-price-calculator
-- [Product Search and Filter](./Product-Search-Filter/README.md) — https://roadmap.sh/projects/js-product-search-filter
+- [Product Search and Filter](./Product-Search-Filter/README.md) — https://roadmap.sh/projects/js-product-search-and-filter
 - [Quiz Score Calculator](./Quiz-Score-Calculator/README.md) — https://roadmap.sh/projects/js-quiz-score-calculator
 - [String Formatter](./String-Formatter/README.md) — https://roadmap.sh/projects/js-string-formatter
 - [Task List Utilities](./Task-List-Utilities/README.md) — https://roadmap.sh/projects/js-task-list-utilities
